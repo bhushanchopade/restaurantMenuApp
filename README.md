@@ -1,3 +1,14 @@
+# Rastaurant Menu App
+
+In this app user can navigate through various food menus via various category list. Created this app by using Hooks, custom Menu API, Filter and Map methods.
+
+## Live Project Link : https://restaurantmenuapp-bhushan.netlify.app/
+
+## Git Repository Link : https://github.com/bhushanchopade/restaurantMenuApp.git
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
